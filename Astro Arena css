@@ -1,0 +1,18 @@
+body{
+  margin:0;
+  background:radial-gradient(circle, #05051a, #000);
+  color:#fff;
+  font-family:Arial, sans-serif;
+  text-align:center;
+}
+
+h1{
+  margin-top:15px;
+  color:#7df9ff;
+}
+
+canvas{
+  margin-top:20px;
+  border:2px solid #7df9ff;
+  background:#000;
+}
